@@ -1,0 +1,36 @@
+# Xcode
+#
+# gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
+
+# User-specific files
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xccheckout
+*.xcscmblueprint
+*.xcuserstate
+
+# Build products
+build/
+DerivedData/
+*.build/
+
+# Pods
+Pods/
+*.xcworkspace
+
+# Source control
+xcuserdata/
+*.xcscmblueprint
+*.xccheckout
+
+# Other
+*.DS_Store
+*.swp
+*~
+.idea/
+.project
+xcshareddata/
+profile
+*.iml
+.vscode/
