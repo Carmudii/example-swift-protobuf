@@ -1,0 +1,20 @@
+PODS:
+  - Starscream (4.0.4)
+  - SwiftProtobuf (1.21.0)
+
+DEPENDENCIES:
+  - Starscream (~> 4.0)
+  - SwiftProtobuf (~> 1.21)
+
+SPEC REPOS:
+  trunk:
+    - Starscream
+    - SwiftProtobuf
+
+SPEC CHECKSUMS:
+  Starscream: 5178aed56b316f13fa3bc55694e583d35dd414d9
+  SwiftProtobuf: afced68785854575756db965e9da52bbf3dc45e7
+
+PODFILE CHECKSUM: 83e3e71068318c52f17a4bab7672cc621eb7f88d
+
+COCOAPODS: 1.11.3
